@@ -1,4 +1,7 @@
 # Sending and Receiving messages using RabbitMQ (python)
+ **To send and receive in localhost, use the code from /LocalHost** \
+ **To send and receive over the network, use the code from /Over the Network** 
+### Follow the below steps for running RabbitMQ sucessfully.
 ### 1. Install Rabbit MQ:
 We need to install Rabbit MQ software from [Rabbit MQ download page](https://www.rabbitmq.com/download.html) 
 ### 2. Install Pika:
