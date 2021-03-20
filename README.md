@@ -3,7 +3,7 @@
 We need to install Rabbit MQ software from [Rabbit MQ download page](https://www.rabbitmq.com/download.html) 
 ### 2. Install Pika:
 Pika is a RabbitMQ client library for Python.\
-We can install it using pip command in the terminal:\
+We can install it using pip command in the terminal:
 ```
 pip install pika
 ```
