@@ -25,6 +25,5 @@ rabbitmqctl set_user_tags username administrator
 ```
 rabbitmqctl set_permissions -p / username ".*" ".*" ".*"
 ```
-\
 ### 5. Now run Receive.py and wait until you receive the message "Ready to receive messages..."
 ### 6. Now run Send.py in a seperate windows and check if the messages are received in the Receive.py window.
